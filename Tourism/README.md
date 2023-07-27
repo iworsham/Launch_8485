@@ -87,10 +87,10 @@ Note: Be sure to merge this branch into `main`!
 Edit this file with your answers.
 
 1. What is the difference between `POST` and `PUT`?
-	* < Your answer >  
+	Post creates resources while Put updates existing resources.
 
 2. What is the purpose of `ViewData`?
-	* < Your answer >  
+	ViewDatas job is to pass data from the controller to the view, in that way only never the other way around. 
 
 3. If the State model of our Tourism application also has a field for `Region` (e.g. `Midwest`, `South`, etc.), what might the url be if want to filter for States in both the South region and Eastern time zone?
 	* < Your answer >  
